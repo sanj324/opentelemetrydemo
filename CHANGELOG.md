@@ -9,6 +9,8 @@ the release.
 
 * [tests] run trace based tests concurrently
   ([#1659](https://github.com/open-telemetry/opentelemetry-demo/pull/1659))
+* [chore] multi-platform build support for all services
+  ([#1651](https://github.com/open-telemetry/opentelemetry-demo/pull/1651))
 
 ## 1.11.0
 
